@@ -1,0 +1,20 @@
+{
+    "name": "fernandovaller/php-parse-report",
+    "description": "Extrair dados de vendas de ingressos e bomboniere de relatório do sistema HTTicket. Consegue converter os dados do relatório HTML para dados em JSON.",
+    "autoload": {
+        "psr-4": {
+            "FVCode\\ParseReport\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Fernando Valler",
+        "email": "fernandovaller@gmail.com"
+    }],
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "require": {
+        "nahid/jsonq": "^6.0"
+    },
+    "license": "MIT"
+}
