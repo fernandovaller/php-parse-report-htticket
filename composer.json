@@ -1,5 +1,5 @@
 {
-    "name": "fernandovaller/php-parse-report",
+    "name": "fernandovaller/php-parse-report-htticket",
     "description": "Extrair dados de vendas de ingressos e bomboniere de relatório do sistema HTTicket. Consegue converter os dados do relatório HTML para dados em JSON.",
     "autoload": {
         "psr-4": {
