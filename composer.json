@@ -10,9 +10,6 @@
         "name": "Fernando Valler",
         "email": "fernandovaller@gmail.com"
     }],
-    "require-dev": {
-        "symfony/var-dumper": "^5.4"
-    },
     "require": {
         "nahid/jsonq": "^6.0"
     },
